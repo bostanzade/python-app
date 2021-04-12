@@ -1,2 +1,2 @@
-# python-app
+nasilsiniz # python-app
 merhabalar
